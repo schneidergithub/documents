@@ -21,4 +21,4 @@ documents repo + more and more!
 
 - **Contact for Legal Inquiries:** For legal questions or takedown requests, please open an issue or contact the repository owner/maintainers.
 
-If you need a different or more specific legal wording (jurisdiction, CLA, corporate contributor policy), tell me which terms you'd like and I can adapt this file accordingly.
+If you need different or more specific legal wording (e.g., jurisdiction, CLA, or corporate contributor policy), please open an issue or submit a pull request proposing the changes so that the repository maintainers can review and update this file as appropriate.
