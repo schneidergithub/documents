@@ -17,7 +17,7 @@ documents repo + more and more!
 
 - **Trademarks:** Any product names, logos, brands, and other trademarks or service marks are the property of their respective owners. Use of these marks does not imply endorsement.
 
-- **Governing Law & Jurisdiction:** Any disputes arising from use of this repository will be governed by applicable laws; where specific jurisdiction is required, see the LICENSE or other project-specific legal files.
+- **Governing Law & Jurisdiction:** This project does not define a specific governing law or jurisdiction; any disputes arising from use of this repository will be resolved under applicable law as determined by the relevant court or authority.
 
 - **Contact for Legal Inquiries:** For legal questions or takedown requests, please open an issue or contact the repository owner/maintainers.
 
