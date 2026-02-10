@@ -1,6 +1,10 @@
 # documents
 documents repo + more and more!
 
+## Available Documents
+
+- [How to Use GitHub Agents](github-agents-howto.md) - A comprehensive guide on using GitHub agents effectively
+
 ## Legal
 
 - **License:** This repository is covered by the terms set forth in the [LICENSE](LICENSE) file at the root of this repository. The LICENSE file is the definitive legal document governing permitted uses, distribution, and modification.
