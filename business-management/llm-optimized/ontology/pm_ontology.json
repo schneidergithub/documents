@@ -1,0 +1,82 @@
+{
+  "entities": {
+    "Product": [
+      "name",
+      "category",
+      "lifecycle_stage",
+      "release_cadence"
+    ],
+    "Market": [
+      "definition",
+      "reachable_channels"
+    ],
+    "Segment": [
+      "criteria",
+      "size_estimate",
+      "drivers",
+      "inhibitors"
+    ],
+    "CustomerRole": [
+      "buyer",
+      "user",
+      "influencer"
+    ],
+    "ProblemStatement": [
+      "actor",
+      "context",
+      "problem_only",
+      "impact"
+    ],
+    "Competitor": [
+      "name",
+      "positioning",
+      "target_segment",
+      "talc_stage"
+    ],
+    "StrategyLens": [
+      "Ansoff",
+      "TALC",
+      "BCG",
+      "ValueDisciplines",
+      "KotlerRoles",
+      "GTM_Play"
+    ],
+    "ValueProposition": [
+      "customer_benefit",
+      "differentiation"
+    ],
+    "Positioning": [
+      "target",
+      "frame_of_reference",
+      "point_of_difference",
+      "reasons_to_believe"
+    ],
+    "HighLevelRequirements": [
+      "themes",
+      "constraints",
+      "nonfunctional_requirements"
+    ],
+    "SizingEstimate": [
+      "method",
+      "assumptions",
+      "tam_sam_som",
+      "computed"
+    ],
+    "BusinessCase": [
+      "pricing",
+      "units_forecast",
+      "costs",
+      "npv"
+    ],
+    "Risk": [
+      "type",
+      "likelihood",
+      "impact",
+      "mitigation"
+    ],
+    "Budget": [
+      "next_stage_cost",
+      "assumptions"
+    ]
+  }
+}

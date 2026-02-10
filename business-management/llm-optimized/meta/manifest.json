@@ -1,0 +1,50 @@
+{
+  "pack_id": "sofdev310-llm-pack",
+  "created": "2026-02-10",
+  "folders": [
+    "course",
+    "modern_addendum",
+    "diagrams",
+    "ontology",
+    "meta"
+  ],
+  "entrypoints": [
+    "README.md",
+    "course/overview.md",
+    "modern_addendum/alignment_overview.md",
+    "meta/glossary.md"
+  ],
+  "files": [
+    "README.md",
+    "course/frameworks/ansoff_grid.md",
+    "course/frameworks/bcg_growth_share.md",
+    "course/frameworks/kotler_competitive_roles.md",
+    "course/frameworks/product_life_cycle.md",
+    "course/frameworks/strategy_in_context.md",
+    "course/frameworks/talc.md",
+    "course/frameworks/value_disciplines.md",
+    "course/overview.md",
+    "course/processes/math_lab_market_sizing.md",
+    "course/processes/opportunity_analysis.md",
+    "course/processes/research_and_segmentation.md",
+    "course/processes/team_roles.md",
+    "course/templates/problem_statements.md",
+    "diagrams/opportunity_analysis.md",
+    "diagrams/product_life_cycle.md",
+    "diagrams/talc.md",
+    "meta/chunking.md",
+    "meta/glossary.md",
+    "meta/sources.md",
+    "modern_addendum/alignment_overview.md",
+    "modern_addendum/continuous_discovery_dual_track.md",
+    "modern_addendum/jtbd.md",
+    "modern_addendum/lean_startup_build_measure_learn.md",
+    "modern_addendum/north_star_metric.md",
+    "modern_addendum/opportunity_solution_tree.md",
+    "modern_addendum/prioritization_rice.md",
+    "modern_addendum/tam_sam_som.md",
+    "modern_addendum/value_proposition_canvas.md",
+    "ontology/README.md",
+    "ontology/pm_ontology.json"
+  ]
+}
